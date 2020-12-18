@@ -347,7 +347,7 @@ span {
 .portfolio {
   margin-top: 0;
   margin-bottom: 0;
-  padding-bottom: 94px;
+  padding-bottom: 20px;
 
   color: var(--primary-text-color);
 
@@ -357,6 +357,7 @@ span {
 
 .portfolio-container {
   padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .filter-list {
